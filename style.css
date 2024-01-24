@@ -26,6 +26,7 @@ header {
   align-items: center;
   position: fixed;
   width: 100%;
+  z-index: 1;
 }
 
 .link {
@@ -128,4 +129,5 @@ a:hover {
   vertical-align: top;
   background-color: rgba(71, 174, 212, 0.327);
   border-radius: 25px;
+  padding: 1rem;
 }
