@@ -1,1 +1,1 @@
-<a href="Camero-schulz.github.io" target="_blank">My Website</a>
+<a href="camero-schulz.github.io" target="_blank">My Website</a>
