@@ -10,7 +10,6 @@ This website will detail my experience during my summer work term at System1. I'
 In my role, I handle a range of technical tasks, including working with HTML, CSS, JavaScript, Python, Jinja and YAML files. I pick up or I am assigned Jira tickets - these tickets typically include projects like building new sites, implementing new site features, or updating the existing codebase. I also develop and utilize internal Python tools to streamline the processes of site building and configuration.
 
 # GOALS
-
 ![Science Says Only 8 Percent of People Actually Achieve Their Goals. Here  Are 7 Things They Do Differently | Inc.com](https://images.inc.com/uploaded_files/image/1920x1080/shutterstock_318915104_360067.jpg)
 
 I have created 5 goals this term. These goals include:
