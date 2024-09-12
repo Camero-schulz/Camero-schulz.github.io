@@ -11,10 +11,10 @@ In my role, I handle a range of technical tasks, including working with HTML, CS
 
 # GOALS
 
- ![Science Says Only 8 Percent of People Actually Achieve Their Goals. Here  Are 7 Things They Do Differently | Inc.com](https://images.inc.com/uploaded_files/image/1920x1080/shutterstock_318915104_360067.jpg)
+![Science Says Only 8 Percent of People Actually Achieve Their Goals. Here  Are 7 Things They Do Differently | Inc.com](https://images.inc.com/uploaded_files/image/1920x1080/shutterstock_318915104_360067.jpg)
 
- I have created 5 goals this term. These goals include:
- 1. **Become a valuable member to the team**
+I have created 5 goals this term. These goals include:
+1. **Become a valuable member to the team**
 By asking relevant questions, suggesting changes, and solving problems as a team
 2. **Become competent creating and releasing code**
 By learning the build/deploy process 
