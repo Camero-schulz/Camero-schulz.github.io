@@ -1,14 +1,17 @@
 # Cameron Schulz F24 Work Report
-![System1](https://www.theladders.com/s3proxy/company-photo.theladders.com/19743/895bff85-acb9-4194-bf11-d299285c93f3.png)
+
 ## Introduction
 
-This website will detail my **second** workterm experience at System1. This website will be broken down into 4 parts:
+This website will detail my **second** work term experience at System1. This website will be broken down into 4 parts:
 
 - Job description
 - Goals
 - What I learned
 - Conclusion
 
+<br />
+
+![System1](https://www.theladders.com/s3proxy/company-photo.theladders.com/19743/895bff85-acb9-4194-bf11-d299285c93f3.png)
 
 ## Job Description
 In my role, I handle a range of technical tasks, including working with HTML, CSS, JavaScript, Python, Jinja, and YAML files. I pick up or am assigned tasks using Jira tickets. These tasks may include building new sites, implementing new site features, or updating the existing codebase. I also develop and utilize internal Python tools to streamline the site-building process.
@@ -35,3 +38,5 @@ Other than the technical skills, I learned that it is ok to ask questions when I
 
 ## Conclusion 
 I came out of this work term with much more knowledge under my belt. I have significantly deepened my skills in Python, HTML/CSS, and JavaScript. I now have a clearer image of what it is like working as a software engineer and what is expected of me in this role. My employer has expressed great satisfaction with my contributions and has extended an offer for me to return in the future. I am more than confident stepping into work term three.
+
+![System1](https://cdn.system1.com/s1c/media/2021/03/09022325/system1-why-the-name.png)
