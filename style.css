@@ -12,20 +12,12 @@ html {
   font-weight: 300;
 }
 
-a {
-  width: fit-content;
-}
-
 body {
   margin: 0;
-
-  /* background: linear-gradient(rgb(255, 255, 255), rgb(191, 224, 249)); */
 }
 
 header {
   background-color: rgba(128, 128, 128, 0.921);
-  /*background: linear-gradient(to right, rgb(217, 204, 181), rgb(179, 117, 117));*/
-  /*background: linear-gradient(to right, rgba(181, 180, 178, 0.748), rgb(142, 133, 118, 0.61));*/
   height: 60px;
   display: flex;
   align-items: center;
@@ -39,10 +31,6 @@ header {
   margin-left: 20px;
   text-decoration: none;
   color: var(--header-link-color);
-  transition: all .1s linear;
-  position: relative;
-  bottom: 0;
-  ;
 }
 
 a:hover {
@@ -61,7 +49,6 @@ a:hover {
 
 .title-format {
   width: 100%;
-  bottom: 200px;
   background-color: rgba(128, 128, 128, 0.5);
 }
 
@@ -102,14 +89,12 @@ a:hover {
 .title {
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 50px;
-  justify-content: center;
 }
 
 .subtitle {
   color: black;
   font-size: 30px;
   margin-bottom: 15px;
-  justify-content: center;  
 }
 
 .description {
@@ -148,7 +133,6 @@ a:hover {
   flex-direction: row;
   justify-content: space-between;
   width: 60%;
-  align-items: top;  
   margin-bottom: 75px;
 }
 
