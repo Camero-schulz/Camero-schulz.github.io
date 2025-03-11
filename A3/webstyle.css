@@ -1,0 +1,94 @@
+* {
+    color: rgb(222, 222, 222);
+    font-family: 'Times New Roman', Arial, 'Roboto', sans-serif; 
+}
+
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-size: 18px;
+}
+
+header {
+    background-color: rgba(11, 41, 112, 0.921);
+    height: 75px;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+
+h2 {
+    margin-top: 50px;
+}
+
+.hlink {
+    font-size: 30px;
+    margin-left: 30px;
+
+}
+
+.title-format {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.title {
+    padding-top: 85px;
+    margin-top: 6%;
+}
+
+.left-pic {
+    width: 200px;
+    float: left;
+    margin: 20px;
+}
+
+.mid-pic {
+    width: 200px;
+    height: auto;
+    margin-top: 3%;
+    position: relative;
+    /* to move image to center of page */
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.right-pic {
+    width: 200px;
+    float: right;
+    margin: 20px;
+}
+
+.text-block {
+    border: 1px solid rgb(8, 8, 142);
+    padding: 0px 3% 5% 3%;
+    margin: 50px 4% 0px 4%;
+}
+
+.tip-block {
+    float: right;
+    border: 1px solid yellow;
+    padding: 0px 1% 0px 1%;
+    background-color: rgb(134, 134, 56);
+    margin-left: 1%;
+    border-radius: 20px;
+}
+
+.list-structure li {
+    margin-bottom: 10px;
+    color: black;
+}
+
+.video-container {
+    text-align: center;
+    justify-content: center;
+}
